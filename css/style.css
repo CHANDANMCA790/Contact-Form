@@ -67,3 +67,7 @@ textarea:focus~label, textarea:valid~label{
 .row .input-group{
     flex-basis: 48%;
 }
+h1{
+    color: cyan;
+    font-style: bold;
+}
